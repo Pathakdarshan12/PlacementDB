@@ -1,0 +1,10 @@
+INSERT INTO Skills VALUES (1,'JAVA');
+INSERT INTO Skills VALUES (2,'Python');
+INSERT INTO Skills VALUES (3,'C++');
+INSERT INTO Skills VALUES (4,'Full Stack');
+INSERT INTO Skills VALUES (5,'SQL');
+INSERT INTO Skills VALUES (6,'Leadership');
+INSERT INTO Skills VALUES (7,'Team Management');
+INSERT INTO Skills VALUES (8, 'Machine Learning');
+INSERT INTO Skills VALUES (9, 'Data Analysis');
+INSERT INTO Skills VALUES (10, 'Project Management');

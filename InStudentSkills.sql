@@ -1,0 +1,14 @@
+INSERT INTO StudentSkills VALUES (01,1);
+INSERT INTO StudentSkills VALUES (02,2);
+INSERT INTO StudentSkills VALUES (03,1);
+INSERT INTO StudentSkills VALUES (03,3);
+INSERT INTO StudentSkills VALUES (04,3);
+INSERT INTO StudentSkills VALUES (04,4);
+INSERT INTO StudentSkills VALUES (05,2);
+INSERT INTO StudentSkills VALUES (05,5);
+INSERT INTO StudentSkills VALUES (41,5);
+INSERT INTO StudentSkills VALUES (41,8);
+INSERT INTO StudentSkills VALUES (41,9);
+INSERT INTO StudentSkills VALUES (47,2);
+INSERT INTO StudentSkills VALUES (47,6);
+INSERT INTO StudentSkills VALUES (47,7);

@@ -1,0 +1,10 @@
+INSERT INTO Companies VALUES (01, 'FaceBook', 'Information Technology', 'New York', 'www.facebook.com');
+INSERT INTO Companies VALUES (02, 'Amazon', 'Information Technology', 'New York', 'www.Amazon.in');
+INSERT INTO Companies VALUES (03, 'Apple', 'Information Technology', 'New York', 'www.apple.com');
+INSERT INTO Companies VALUES (04, 'Netflix', 'Information Technology', 'New York', 'www.netflix.com');
+INSERT INTO Companies VALUES (05, 'Google', 'Information Technology', 'New York', 'www.google.com');
+INSERT INTO Companies VALUES (06, 'IBM', 'Information Technology', 'New York', 'www.ibm.com');
+INSERT INTO Companies VALUES (07, 'Microsoft', 'Information Technology', 'Redmond', 'www.microsoft.com');
+INSERT INTO Companies VALUES (08, 'Tesla', 'Automotive', 'Palo Alto', 'www.tesla.com');
+INSERT INTO Companies VALUES (09, 'Alphabet Inc.', 'Information Technology', 'Mountain View', 'www.abc.xyz');
+INSERT INTO Companies VALUES (10, 'Walmart', 'Retail', 'Bentonville', 'www.walmart.com');

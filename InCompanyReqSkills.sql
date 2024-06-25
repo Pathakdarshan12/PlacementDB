@@ -1,0 +1,10 @@
+INSERT INTO CompanyReqSkills VALUES (01,1);
+INSERT INTO CompanyReqSkills VALUES (02,2);
+INSERT INTO CompanyReqSkills VALUES (03,1);
+INSERT INTO CompanyReqSkills VALUES (03,3);
+INSERT INTO CompanyReqSkills VALUES (04,2);
+INSERT INTO CompanyReqSkills VALUES (05,3);
+INSERT INTO CompanyReqSkills VALUES (05,5);
+INSERT INTO CompanyReqSkills VALUES (06,5);
+INSERT INTO CompanyReqSkills VALUES (06,8);
+INSERT INTO CompanyReqSkills VALUES (06,9);

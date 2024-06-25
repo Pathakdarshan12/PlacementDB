@@ -1,0 +1,4 @@
+CREATE TABLE Skills (
+	SkillID INT PRIMARY KEY,
+	SkillName VARCHAR(50)
+);

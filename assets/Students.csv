@@ -1,0 +1,13 @@
+StudentID,FName,LName,Gender,Department,DateOfBirth,Email,Phone
+1,Rahul,S,Male,MCA,1995-10-10,Rahul.S@gamail.com,1234567890
+2,Muskan,T,Female,MCA,2002-02-15,Muskan.T@gamail.com,9133566702
+3,Guru,D,Male,MCA,2002-12-15,Guru.D@gamail.com,9123896789
+4,Pratik,K,Male,MCA,2002-01-05,Pratik.K@gamail.com,9176258463
+5,Sayli,M,Female,MCA,2001-05-04,Sayli.M@gamail.com,9147652384
+7,Pratik,R,Male,MCA,2001-05-04,Pratik.R@gamail.com,9147782384
+8,Atharva,K,Male,MCA,2001-01-07,Atharva.K@gamail.com,9147852384
+12,Anuja,C,Female,"	MCA",1999-09-28,Anuja.S@gamail.com,9147652384
+37,Darshani,M,Female,MCA,2002-08-01,darshani.M@gamail.com,93846525
+41,Darshan,P,Male,MCA,2002-12-12,pathakdarshan12@gamail.com,9389745620
+45,Aniket,P,Male,MCA,2001-07-03,Aniket.P@gamail.com,9147852384
+62,Sonali,S,Female,MCA,1999-09-28,Sonali.S@gamail.com,9147652384
